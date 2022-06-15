@@ -1,0 +1,1 @@
+These programs build plots representing the time domain and frequency domain signals and the amplitude spectrum. They show modulation and demodulation processes, represent encoder and decoder models and models for testing the transmission system with specific channel interference.
